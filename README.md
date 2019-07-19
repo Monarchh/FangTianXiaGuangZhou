@@ -1,8 +1,7 @@
-# FangTianXiaGuangZhou
 
-#分析广州区域出租房屋热点区域
+# 分析广州区域出租房屋热点区域
 
-## 点击进入目标网站(https://gz.zu.fang.com/)
+## [点击进入目标网站](https://gz.zu.fang.com/)
 
 ### 创建scrapy项目后先用shell调试工具抓取页面信息，页面返回200，可以使用scrapy“爬取”数据
 
