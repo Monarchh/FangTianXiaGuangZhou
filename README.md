@@ -8,6 +8,8 @@
 之后再定义Item类，开发Spider类，使用Xpath从页面中提取房屋位置信息，用这些信息来封装Item对象，最后开发Pipeline，处理Spider获取的Item对象，
 可以先用print语句测试是否能在终端显示出爬取的数据。成功后再修改pipeline生成json文件，最后用jupyter notebook编写用json文件生成pygal分析图
 
+! [Image text](https://github.com/Monarchh/FangTianXiaGuangZhou/blob/master/FangSpider/rent_addr.png)
+
 > * 操作系统：macOS Mojave
 
 > * 时间：2019-7-19
